@@ -2,7 +2,7 @@
 
 A modern, interactive quiz application built with React, TypeScript, and Tailwind CSS. Test your knowledge across various subjects with instant feedback and progress tracking.
 
-## ✨ Features
+## Features
 
 - **Interactive Questions**
   - Multiple choice questions with A/B/C/D options
@@ -32,7 +32,7 @@ A modern, interactive quiz application built with React, TypeScript, and Tailwin
   - Historical attempt tracking
   - Score preservation between sessions
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -58,7 +58,7 @@ A modern, interactive quiz application built with React, TypeScript, and Tailwin
 
 4. Open your browser and navigate to the local server URL provided in the terminal
 
-## 📱 Usage
+## Usage
 
 1. Start the quiz by viewing the first question
 2. Select an answer for multiple choice questions or enter a number for integer questions
@@ -68,6 +68,6 @@ A modern, interactive quiz application built with React, TypeScript, and Tailwin
 6. View your quiz history in the attempts section
 7. Retry the quiz to improve your score
 
-## 🎯 Quiz Content
+## Quiz Content
 
 Each question has a 30-second time limit and provides immediate feedback on answers.
